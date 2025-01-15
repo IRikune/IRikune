@@ -1,2 +1,5 @@
 ## Hi there 👋
-<img src="https://github.com/IRikune/IRikune/blob/main/assets/riku.png" width="50">
+<p align="center" width="300">
+   <img align="center" width="200" src="" />
+   <h3 align="center">¡Hey 👋! I'm Riku 👨🏻‍💻</h3>
+</p>
