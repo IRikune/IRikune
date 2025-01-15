@@ -1,2 +1,2 @@
 ## Hi there 👋
-[Riku](https://github.com/IRikune/IRikune/blob/main/assets/riku.png)
+<img src="https://github.com/IRikune/IRikune/blob/main/assets/riku.png" width="50">
