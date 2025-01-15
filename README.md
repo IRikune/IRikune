@@ -4,7 +4,8 @@
    <h3 align="center">¡Hey 👋! I'm Riku 👨🏻‍💻</h3>
 </p>
 
-
-<a href="https://git.io/streak-stats" align="center">
+<p align="center" width="300">
+<a href="https://git.io/streak-stats">
 <img src="https://streak-stats.demolab.com?user=riku&theme=react&hide_border=true" alt="GitHub Streak" />
 </a>
+</p>
