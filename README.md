@@ -7,3 +7,12 @@
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
+
+# About me 🧑🏻‍💻
+
+>[!Note]
+> I'm a **FullStack Developer** specialized in web solutions.
+
+<p align="center" width="300">
+   <img align="center" width="200" src="https://github.com/IRikune/IRikune/blob/main/assets/deno.webp" />
+</p>
