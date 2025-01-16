@@ -4,4 +4,8 @@
    <h3 align="center">¡Hey 👋! I'm Riku 👨🏻‍💻</h3>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=IRikune&card_width=1000)](https://git.io/streak-stats)
+<p align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=IRikune)](https://git.io/streak-stats)
+
+</p>
