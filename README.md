@@ -4,4 +4,6 @@
    <h3 align="center">¡Hey 👋! I'm Riku 👨🏻‍💻</h3>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=riku&theme=react&hide_border=true)](https://git.io/streak-stats)
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
