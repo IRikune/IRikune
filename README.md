@@ -18,4 +18,4 @@
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
-[![My modern Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=My+modern+Tech+Stack&align=center&titleAlign=center&fontFamily=Nunito&lineCount=2&theme=one_dark&bg=%23282C34&badge=%2321252B&border=%2321252B&titleColor=%2343A3EF)
+[![Loved Languages](https://github-readme-tech-stack.vercel.app/api/cards?title=Loved+Languages&align=center&titleAlign=center&lineCount=1&theme=one_dark&bg=%23282C34&badge=%2321252B&border=%2321252B&titleColor=%2343A3EF&line1=javascript%2CJavascript%2Cf7df1e%3Btypescript%2CTypescript%2C3178c6%3B)
