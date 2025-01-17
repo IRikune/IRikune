@@ -30,7 +30,7 @@
 
 >[!Important]
 > I'm a modern tech enthusiast who centers his efforts on the latest technologies and trends.
-> On this moment I'm focusing on the following technologies: |**Astro** - **Preact** - **Deno** - **Hono** - **DenoKV**|
+> On this moment I'm focusing on the following technologies: **Astro** - **Preact** - **Deno** - **Hono** - **DenoKV**
 
 
 
