@@ -3,6 +3,10 @@
    <img align="center" width="200" src="https://github.com/IRikune/IRikune/blob/main/assets/riku.webp" />
    <h3 align="center">¡Hey 👋! I'm Riku 👨🏻‍💻</h3>
    <h3 align="center">FullStack Developer</h3>
+	<h3 align="center">
+		Last Work: 
+		<a href="https://ozon.ru">OZON</a>
+	</h3>
    <h3 align="center">🇻🇪 🇷🇺 🇺🇸 🇨🇦 🇨🇴</h3>
 </p>
 
